@@ -1,0 +1,4 @@
+import decimali
+integer=10
+print(decimal.decimal(integer))
+print(type(decimal.decimal(integer)))
